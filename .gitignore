@@ -26,3 +26,4 @@ Vagrantfile
 .db
 storage/
 id_ed25519*
+beszel_data/
