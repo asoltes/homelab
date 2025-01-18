@@ -20,4 +20,4 @@ services:
     environment:
       PORT: 45876
       # Do not remove quotes around the key
-      KEY: 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINNWcuuXj9PSRMas2bW62URIOSPFlojimzrzXciDXPdi'
+      KEY: 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIClsFU7ibQRsUb6/RcEsDawUJWiZerE9estUyp2SBckV'
